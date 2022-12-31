@@ -19,9 +19,9 @@
 | ``iGPU``| Intel HD Graphics 4600 |  |
 | ``dGPU``| AMD Radeon RX 560 4 GB |  |
 | ``Disk``| KINGSTON SA400S37120G |  |
-| ``Screen``| 14.0" 1366 x 768 |    |
+| ``Screen``| 20.0" 1366 x 768 |    |
 | ``Ethernet``| RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | Use [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases). |
-| ``Audio``| ALC887 | Add `alcid=7` to boot-arg or add layout-id to DeviceProperties. |
+| ``Audio``| Realtek ALC887 | Add `alcid=7` to boot-arg or add layout-id to DeviceProperties. |
 | ``Keyboard``| - |  |
 
 ## Features
