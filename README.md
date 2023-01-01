@@ -1,4 +1,4 @@
-# <div align="center">Asus H81MD Hackintosh</div> 
+# <div align="center">Asus H81MD RX560 Hackintosh</div> 
 
 ## Intro
 
@@ -9,7 +9,7 @@
 
 ![Screenshot](ScreenShot.png)
 
-## Laptop Specification
+## Desktop Specification
 
 |                     | Specifications| Note |
 | ---------------------------- | ---------------------- |------------------|
